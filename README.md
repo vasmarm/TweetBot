@@ -1,2 +1,1 @@
-# TweetBot
-TweetBot Excercise
+# Instructor Demo
